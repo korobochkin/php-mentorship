@@ -19,5 +19,5 @@
 
 ### Полезные ссылки
 
-	* [Официальная документация](https://symfony.com/doc/current/book/index.html). Доступна на английском, французском и итальянском.
-	* [Пошаговые уроки по созданию блога на Symfony](http://tutorial.symblog.co.uk).
+ * [Официальная документация](https://symfony.com/doc/current/book/index.html). Доступна на английском, французском и итальянском.
+ * [Пошаговые уроки по созданию блога на Symfony](http://tutorial.symblog.co.uk).
